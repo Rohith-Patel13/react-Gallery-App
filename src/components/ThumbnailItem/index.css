@@ -1,0 +1,20 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+.liContainer {
+  margin-right: 8px;
+  list-style-type: none;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.active-tab-btn {
+  opacity: 1;
+}
+
+.btnEl {
+  background-color: transparent;
+  border: 0px solid transparent;
+  cursor: pointer;
+}
