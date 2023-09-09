@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-tabs-switcher/static/css/main.07d2e5ef.chunk.css",
+    "main.js": "/react-tabs-switcher/static/js/main.a9986f4d.chunk.js",
+    "main.js.map": "/react-tabs-switcher/static/js/main.a9986f4d.chunk.js.map",
+    "runtime-main.js": "/react-tabs-switcher/static/js/runtime-main.b7915bc5.js",
+    "runtime-main.js.map": "/react-tabs-switcher/static/js/runtime-main.b7915bc5.js.map",
+    "static/js/2.79fb92c6.chunk.js": "/react-tabs-switcher/static/js/2.79fb92c6.chunk.js",
+    "static/js/2.79fb92c6.chunk.js.map": "/react-tabs-switcher/static/js/2.79fb92c6.chunk.js.map",
+    "index.html": "/react-tabs-switcher/index.html",
+    "static/css/main.07d2e5ef.chunk.css.map": "/react-tabs-switcher/static/css/main.07d2e5ef.chunk.css.map",
+    "static/js/2.79fb92c6.chunk.js.LICENSE.txt": "/react-tabs-switcher/static/js/2.79fb92c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7915bc5.js",
+    "static/js/2.79fb92c6.chunk.js",
+    "static/css/main.07d2e5ef.chunk.css",
+    "static/js/main.a9986f4d.chunk.js"
+  ]
+}
